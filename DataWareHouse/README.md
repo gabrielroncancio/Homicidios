@@ -19,7 +19,7 @@ El Data Warehouse utiliza un esquema en **copo de nieve** para modelar los datos
 
 El esquema en copo de nieve normaliza las dimensiones, permitiendo una relación jerárquica entre Departamentos y Municipios, optimizando el almacenamiento y facilitando análisis multidimensionales.
 
-![Modelo ER en Copo de Nieve](/fac_homicidios.png)
+![Modelo ER en Copo de Nieve](fac_homicidios.png)
 
 
 
